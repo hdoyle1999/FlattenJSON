@@ -1,0 +1,2 @@
+# FlattenJSON
+MongoDB code challenge
